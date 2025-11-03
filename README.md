@@ -1,4 +1,6 @@
 # Employee Attrition and Insights
+![Dashboard Preview](Dashboard/image.png)
+
 This project focuses on HR Analytics, aiming to uncover and analyze the main factors that drive employee attrition within an organization. <br> 
 The analysis is based on the IBM HR Analytics dataset, which includes information about employees’ demographics, job roles, performance ratings, satisfaction levels, and attrition status.
 
@@ -16,3 +18,10 @@ Total Employees: 1470
 Average Monthly Income: $6,502
 Average Years at Company: 7
 ```
+
+## Tools Used
+
+
+- Excel Pivot Tables
+
+- HR Analytics Dataset (IBM)
