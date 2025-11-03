@@ -10,13 +10,11 @@ The dataset includes various employee-related attributes such as:
 - **Performance & Compensation**: Monthly_Income, Performance_Rating, Over_Time  
 - **Satisfaction Metrics**: Job_Satisfaction, Work_Life_Balance, Environment_Satisfaction
 
-### 📊 Key Insights
-```
-Attrition Rate: 16%
-Total Employees: 1470
-Average Monthly Income: $6,502
-Average Years at Company: 7
-```
+### 🔍 Key Insights
+- **Attrition Rate:** 16%
+- **Total Employees:** 1,470
+- **Average Monthly Income:** $6,502
+- **Average Years at Company:** 7
 
 ## Tools Used
 
