@@ -1,7 +1,7 @@
 # Employee Attrition and Insights
 ![Dashboard Preview](Dashboard/image.png)
 
-### This project focuses on HR Analytics, aiming to uncover and analyze the main factors that drive employee attrition within an organization. The analysis is based on the IBM HR Analytics dataset, which includes information about employees’ demographics, job roles, performance ratings, satisfaction levels, and attrition status.
+### This project focuses on HR Analytics, aiming to identify and understand the key factors that influence employee attrition within an organization. It uses the IBM HR Analytics dataset, which contains detailed information about employees’ demographics, job roles, performance ratings, satisfaction levels, and attrition status.
 
 ## 📊 Dataset Overview
 The dataset includes various employee-related attributes such as:
